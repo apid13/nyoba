@@ -1,8 +1,8 @@
 //starts
-//Author : Nazwa
-//Hayolo numpang nama doang
-//Ckckckck
-//Mengaku yang bukan punya nya
+//Author : FIDS
+//Test
+//Bot
+//Whatsapp
 const {
     WAConnection,
     MessageType,
@@ -101,9 +101,9 @@ const { limit } = require('./database/menu/limit')
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:√ANKER√\n' // Nama Lu
-            + 'ORG:#OwnerGanz;\n' // Nama Kontak Owner
-            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // Nomer Lu cok
+            + 'FN:√FIDS√\n' // Nama Lu
+            + 'ORG:#ADMIN;\n' // Nama Kontak Owner
+            + 'TEL;type=CELL;type=VOICE;waid=6288223955883:+62 882-2395-5883\n' // Nomer Lu cok
             + 'END:VCARD'
 prefix = "#"
 blocked = []
