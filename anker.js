@@ -108,7 +108,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
 prefix = "#"
 blocked = []
 limitawal = userDefaultLimit
-cr = 'AOOBOT'
+cr = 'ANIME OTAKU OFFICIAL BOT'
 memberlimit = memberLimitss
 
 // Functions
@@ -394,7 +394,7 @@ async function starts() {
 					ownerB: '❰❗❱ Perintah ini hanya bisa di gunakan oleh owner bot! ❰❗❱',
 					admin: '❰❗❱ Perintah ini hanya bisa di gunakan oleh admin group! ❰❗❱',
 					Badmin: '❰❗❱Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❰❗❱',
-                                        daftarB: `｢ BELUM REGISTER ｣\nHalo kak !\nKamu belum Register nih, register dulu yuk... \n\nCommand : ${prefix}register nama|umur\nContoh : ${prefix}register Anker|16`,
+                                        daftarB: `｢ BELUM REGISTER ｣\nHalo kak !\nKamu belum Register nih, register dulu yuk... \n\nCommand : ${prefix}register nama|umur\nContoh : ${prefix}register Fids|17`,
 				}
 			}
     			const apakah = ['Ya','Pasti','Kaga Bakal','Tidak']
