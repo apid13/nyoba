@@ -1,14 +1,6 @@
-### Moshi Moshi~ I'm ANKER
+### Moshi Moshi~ FIDS DESU 
 
-<details>
- <summary>🍙 Help me!</summary>
- 
- [Saweria](https://saweria.co/darkbot2412)
-
- [Gopay](https://wa.me/6281368646011)
- 
-</details>
-</div>
+WHATSAPPBOT SIMPLE
 
 ## Tools
 
@@ -21,9 +13,9 @@
 ---
 
 ## Information
-- Change vcard contacts on [this section](https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3/blob/main/anker.js#L102)
-- Change Options on [this file](https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3/blob/main/options/option.json)
-- Change menu on [this folders](https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3/tree/main/database/menu)
+- Change vcard contacts on [this section](https://github.com/apid13/nyoba/blob/main/anker.js#L102)
+- Change Options on [this file](https://github.com/apid13/nyoba/blob/main/options/option.json)
+- Change menu on [this folders](https://github.com/apid13/nyoba/tree/main/database/menu)
 
 ---
 
@@ -38,9 +30,9 @@
     "botName": "BOT_NAME",
     "ownerName": "OWNER_NAME",
     "BarBarKey": "YOUR_APIKEY",
-    "ownerNumbers": "628885xxxxxx@s.whatsapp.net",
+    "ownerNumbers": "628823xxxxxx@s.whatsapp.net",
     "languages": "ind",
-    "botPrefix": "."
+    "botPrefix": "#"
 }
 ```
 
@@ -52,7 +44,7 @@ Example:
 - Change ```ownerName``` with your Name
 Example:
 ```bash
-"ownerName": "Nazwa",
+"ownerName": "Fids",
 ```
 - Change ```BarBarKey``` with your mhankbarbar ApiKey
 Example:
@@ -83,8 +75,8 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3
-> cd bot-wea-v3
+> git clone https://github.com/apid13/nyoba
+> cd nyoba
 > bash install.sh
 ```
 
@@ -116,8 +108,8 @@ Follow The Steps Below!
 ### Install
 
 ```bash
-> git clone https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3
-> cd bot-wea-v3
+> git clone https://github.com/apid13/nyoba
+> cd nyoba 
 > npm install
 > npm i imgbb-uploader
 > npm i got
