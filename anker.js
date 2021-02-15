@@ -108,7 +108,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
 prefix = "#"
 blocked = []
 limitawal = userDefaultLimit
-cr = 'ANIME OTAKU OFFICIAL BOT'
+cr = 'FIDSBOT'
 memberlimit = memberLimitss
 
 // Functions
