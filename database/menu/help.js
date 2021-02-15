@@ -39,7 +39,7 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
    ┠≽ *${prefix}limitmenu*
    ┠≽ *${prefix}ownermenu*
    ┠≽ *${prefix}othermenu*
-   ┠≽ *${prefix}Lainnya*
+   ┠≽ *${prefix}lainnya*
    ╿ *${ownerName}*,
    ╰╼≽ *Developer © ${botName}`
 }
